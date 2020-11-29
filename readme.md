@@ -1,6 +1,6 @@
 # GitHub Battle -- Check Popular Repos & Battle GitHub Users
 
-My first React project built by following Tyler McGinnis' React Course. This React project displays most popular repos (by specific languages also) and gives you the ability to pit GitHub users in a "brawl" to see who scores more points. I managed to learn a ton and I gained a deeper understanding of how React works and how to use it to build great UIs.
+React project, displays most popular repos (by specific languages also) and gives you the ability to pit GitHub users in a "brawl" to see who scores more points. I managed to learn a ton and I gained a deeper understanding of how React works and how to use it to build great UIs.
 
 ### Main Features
 
